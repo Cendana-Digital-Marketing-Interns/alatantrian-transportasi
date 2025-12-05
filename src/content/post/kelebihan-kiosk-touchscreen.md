@@ -2,7 +2,7 @@
 publishDate: 2025-02-21T00:00:00Z
 title: 'Kiosk Touchscreen vs Tiket Dispenser Tombol: Mana yang Tepat untuk Transportasi & Logistik?'
 excerpt: Perbandingan teknis dan ekonomis antara mesin antrian layar sentuh modern dan mesin tombol konvensional di terminal, pelabuhan, dan depo logistik.
-image: ~/assets/images/hero-image.png
+image: ~/assets/images/blog/artikel2.jpg
 category: Teknologi
 tags:
   - hardware antrian

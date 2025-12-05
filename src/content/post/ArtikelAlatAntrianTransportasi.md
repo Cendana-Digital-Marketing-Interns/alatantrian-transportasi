@@ -2,7 +2,7 @@
 title: Cara Meningkatkan Efisiensi Operasional Transportasi & Logistik dengan Sistem Antrian Terintegrasi
 publishDate: 2025-02-20
 excerpt: Digitalisasi antrian bukan lagi fitur tambahan, tetapi kebutuhan wajib bagi terminal, pelabuhan, dan pusat logistik untuk menjaga kelancaran arus penumpang maupun kendaraan.
-image: ~/assets/images/blog/antrian-transportasi.png
+image: ~/assets/images/blog/artikel3.jpg
 category: Edukasi Operasional
 tags:
   - antrian transportasi

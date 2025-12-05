@@ -82,9 +82,12 @@ export const footerData = {
     {
       title: 'Microsite Lain',
       links: [
-        { text: 'Pelayanan Publik', href: '#' },
-        { text: 'Perbankan', href: '#' },
-        { text: 'Pendidikan', href: '#' },
+        { text: 'Pelayanan Publik', href: 'https://alatantrian-publik.vercel.app/' },
+        { text: 'Perbankan', href: 'https://alatantrian-perbankan.vercel.app/' },
+        { text: 'Pendidikan', href: 'https://alatantrian-pendidikan.vercel.app/' },     
+        { text: 'Kesehatan', href: 'https://alatantrian-kesehatan.vercel.app/' },     
+        { text: 'Transportasi', href: 'https://alatantrian-transportasi.vercel.app/' },     
+        { text: 'Retail', href: 'https://alatantrian-retail.vercel.app/' },     
       ],
     },
     {

@@ -2,7 +2,7 @@
 publishDate: 2025-02-22T00:00:00Z
 title: 'Mengurai Benang Kusut Antrian Kendaraan: Masalah Klasik di Terminal & Pelabuhan'
 excerpt: Area layanan kendaraan sering menjadi titik bottleneck dalam operasi transportasi & logistik. Pelajari strategi memangkas waktu tunggu truk hingga 40%.
-image: ~/assets/images/blog/antrian-farmasi.png
+image: ~/assets/images/blog/artikel1.jpg
 category: Manajemen Operasional
 tags:
   - antrian kendaraan
