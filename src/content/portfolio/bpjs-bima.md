@@ -1,28 +1,28 @@
 ---
-title: 'Sistem Antrian Kantor BPJS Kesehatan Bima'
-clientName: 'BPJS Kesehatan Cabang Bima'
-description: 'Penyediaan sistem antrian loket pelayanan peserta untuk ketertiban administrasi dan kepuasan peserta JKN.'
+title: 'Sistem Antrian Terminal Bus Purabaya Surabaya'
+clientName: 'Terminal Purabaya Surabaya'
+description: 'Penyediaan sistem antrian loket penjualan tiket dan boarding untuk ketertiban pelayanan dan kepuasan penumpang.'
 completionDate: 2014-06-15
-category: 'Pelayanan Publik'
+category: 'Transportasi'
 image: '~/assets/images/portofolio/Pemasangan Kator BPJS Bima 2014.jpeg'
 tags:
-  - 'Pelayanan Administratif'
+  - 'Terminal Bus'
   - 'Awet & Tahan Lama'
-  - 'Loket Service'
+  - 'Loket Tiket'
 metadata:
-  title: 'Antrian BPJS Kesehatan Bima'
+  title: 'Antrian Terminal Purabaya Surabaya'
 ---
 
 ## Ketertiban Pelayanan Sejak Dini
 
-Sebagai penyelenggara jaminan kesehatan nasional, kantor cabang BPJS Kesehatan selalu dipadati warga yang mengurus administrasi.
+Sebagai terminal bus terbesar di Surabaya, Terminal Purabaya selalu dipadati penumpang yang membeli tiket dan menunggu keberangkatan.
 
 ### Lingkup Pekerjaan
 
 Pada tahun 2014, kami dipercaya untuk memasang sistem antrian loket yang mengatur:
 
-- Antrian Pendaftaran Peserta Baru.
-- Antrian Perubahan Data / Mutasi.
-- Antrian Pengaduan & Informasi.
+- Antrian Pembelian Tiket Bus AKAP/AKDP.
+- Antrian Check-in Penumpang.
+- Antrian Informasi & Customer Service.
 
-Proyek ini membuktikan **durabilitas** produk kami yang mampu mendukung operasional instansi pemerintahan dalam jangka waktu yang sangat panjang dengan perawatan yang minimal.
+Proyek ini membuktikan **durabilitas** produk kami yang mampu mendukung operasional terminal transportasi dalam jangka waktu yang sangat panjang dengan perawatan yang minimal.

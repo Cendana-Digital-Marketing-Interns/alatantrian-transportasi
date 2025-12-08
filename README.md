@@ -1,8 +1,8 @@
 # Alat Antrian Transportasi (Microsite)
 
-Website ini adalah _microsite_ khusus yang berfokus pada solusi sistem antrian untuk sektor kesehatan (Rumah Sakit, Puskesmas, Klinik). Dibangun menggunakan **Astro** untuk performa maksimal dan SEO yang optimal.
+Website ini adalah _microsite_ khusus yang berfokus pada solusi sistem antrian untuk sektor transportasi dan logistik (Terminal Bus, Travel, Stasiun, Cargo). Dibangun menggunakan **Astro** untuk performa maksimal dan SEO yang optimal.
 
-Website ini berfungsi sebagai _lead generator_ dan _educational hub_ yang mendukung website utama **AlatAntrian Transportasi.com**.
+Website ini berfungsi sebagai _lead generator_ dan _educational hub_ yang mendukung website utama **AlatAntrian.com**.
 
 ![Preview Website](src/assets/images/hero-image.png)
 
@@ -10,7 +10,7 @@ Website ini berfungsi sebagai _lead generator_ dan _educational hub_ yang menduk
 
 ### 1. Unified Content Management (Produk & Layanan)
 
-- Sistem katalog terpusat yang menggabungkan **Hardware** (Kiosk), **Software** (BPJS Bridging), dan **Jasa** (Instalasi/Training).
+- Sistem katalog terpusat yang menggabungkan **Hardware** (Kiosk), **Software** (Integrasi Booking), dan **Jasa** (Instalasi/Training).
 - Dikelola via CMS tanpa koding.
 
 ### 2. Blog Edukasi "Level Ahrefs"
@@ -21,7 +21,7 @@ Website ini berfungsi sebagai _lead generator_ dan _educational hub_ yang menduk
 
 ### 3. Portofolio Dinamis
 
-- Showcase studi kasus klien (misal: RS Bhayangkara) dengan galeri foto dan deskripsi proyek.
+- Showcase studi kasus klien (misal: Terminal Purabaya) dengan galeri foto dan deskripsi proyek.
 
 ### 4. Dashboard Admin (Keystatic)
 
@@ -52,22 +52,20 @@ Website ini berfungsi sebagai _lead generator_ dan _educational hub_ yang menduk
 Pastikan Anda sudah menginstal **Node.js** (versi 18+).
 
 1.  **Clone Repository**
-
-    ```bash
-    git clone [https://github.com/username/alatantrian-kesehatan.git](https://github.com/username/alatantrian-kesehatan.git)
-    cd alatantrian-kesehatan
-    ```
+```bash
+    git clone https://github.com/username/alatantrian-transportasi.git
+    cd alatantrian-transportasi
+```
 
 2.  **Install Dependencies**
-
-    ```bash
+```bash
     npm install
-    ```
+```
 
 3.  **Jalankan Server Lokal**
-    ```bash
+```bash
     npm run dev
-    ```
+```
     Buka browser di `http://localhost:4321`.
 
 ---
@@ -84,14 +82,13 @@ Tidak perlu mengedit file kodingan untuk menambah artikel atau produk.
 
 ### Mode Live (Production)
 
-1.  Buka `https://alatantrian-kesehatan.vercel.app/keystatic`.
+1.  Buka `https://alatantrian-transportasi.vercel.app/keystatic`.
 2.  Login menggunakan akun **GitHub** yang sudah terdaftar sebagai _Collaborator_.
 3.  Setiap perubahan yang di-save akan otomatis memicu _redeploy_ di Vercel.
 
 ---
 
 ## 📂 Struktur Folder Penting
-
 ```text
 src/
 ├── assets/             # Gambar, Logo, Favicon
